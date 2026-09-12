@@ -14,3 +14,12 @@ automatic rejection mails
 Y?” and get a natural-language answer.
 • Handle messy or inconsistent resume formatting gracefully (typos, varied date formats, inconsistent section
 headers, etc.).
+
+#addtional
+detect bias in our selection systems
+
+multi-layered system 
+similarity search against jd
+see coherence factor across sections in the resume
+
+like how much do skills align with projects and achievements, open the project repo using python and try matching them against the skills mentioned and the JD, so bias is reduced
