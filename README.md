@@ -9,6 +9,8 @@ employer -> see multiple job posting -> sees candidates ranked on the basis of t
 
 automatic rejection mails
 
-for top 3 candidates tell why they were preffered 
-detect bias in our selection systems 
-
+• Flag potential bias or overly narrow phrasing in the JD itself that could unfairly exclude qualified candidates.
+• Build a simple UI or chat layer where a “recruiter” can ask, e.g., “Why is Candidate X ranked above Candidate
+Y?” and get a natural-language answer.
+• Handle messy or inconsistent resume formatting gracefully (typos, varied date formats, inconsistent section
+headers, etc.).
