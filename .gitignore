@@ -1,0 +1,19 @@
+# Environments
+backend/.env
+frontend/.env
+.env
+
+# Virtual Environment
+backend/venv/
+backend/__pycache__/
+backend/.pytest_cache/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# SQLite Database
+backend/nexora.db
+
+# Resumes/Uploads
+backend/data/resumes/
